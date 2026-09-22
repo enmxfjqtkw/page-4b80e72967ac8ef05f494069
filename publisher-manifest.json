@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4589e5e1919d79254751438b",
+  "owner": "enmxfjqtkw",
+  "repo": "page-4b80e72967ac8ef05f494069",
+  "title": "abuxiaoxi",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b80e72967ac8ef05f494069",
+      "a": "abuxiaoxi",
+      "b": "机场官网线路发布页",
+      "entity": "abuxiaoxi",
+      "brand": "abuxiaoxi",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d171d29dc88e6178891d3ff37f85f4a57c76b1d518fe302f7f6d3a832e126c02",
+      "content": {
+        "primary_entity": "abuxiaoxi",
+        "keyword1": "abuxiaoxi",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，abuxiaoxi 提供多档位加速订阅，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线优化，团队版每月 1000GB、支持 20 台设备。按年付可分别节省至 ¥150/年、¥350/年、¥850/年，适合个人影音、游戏加速及小型团队协作。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选",
+          "AI_HERO_INTRO": "abuxiaoxi 面向个人与团队提供海外网络加速订阅，套餐覆盖从轻度影音到多设备协作的不同用量。线路节点按套餐区分，可按月或按年付费，客户端支持主流桌面与移动平台。",
+          "AI_VISUAL_TITLE": "abuxiaoxi 订阅导航",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 含 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 5 设备含专线优化",
+          "AI_HIGHLIGHT_3": "团队版 20 设备支持定制路由",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "按设备数量、月流量与线路类型匹配套餐，能减少后续更换成本。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖单人、家庭与团队场景。",
+          "AI_FEATURE_TITLE_2": "按流量周期匹配",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度浏览，300GB 满足日常影音，1000GB 适合多设备高频使用。",
+          "AI_FEATURE_TITLE_3": "按线路需求升级",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏优化，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，可按设备类型查看配置文档后导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版适合多设备与游戏加速，团队版面向多人协作与高流量需求。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选套餐到导入客户端，三步完成基础配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本要求，下载对应客户端。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，完成连接测试。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "在客户端中复制订阅地址，打开配置或订阅管理界面粘贴后更新，即可拉取节点列表。具体路径参考各客户端文档。",
+          "AI_FAQ_QUESTION_2": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_2": "可按需升级到更高档位，差价按剩余周期折算。具体操作在账户管理或联系客服完成，升级后设备数与流量即时生效。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备平台？",
+          "AI_FAQ_ANSWER_3": "桌面端与移动端均有对应客户端可选，按系统类型分别下载。不同套餐的设备并发数不同，购买前请确认所需设备数量。",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "功能与流量规格一致，按年付价格更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版含 1000GB 月流量与 20 台设备支持，提供 VIP 高带宽节点和定制路由，适合小型团队协作或多设备高频使用环境。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求锁定档位，按客户端文档完成订阅导入即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hlkwx.cn",
+    "host": "hlkwx.cn"
+  },
+  "file_hashes": {
+    "index.html": "848520e16e278c0fe2c09ccbfbbb88e2cdccbbf917bb6c0fa24038ec781937ce",
+    "sitemap.xml": "af6c718b302601b9ded1599c705a5836df1832128908a2d12b3c85a784dd4d14",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2858874b61d853aaea15e2d5cb8f099ea3f134cf1b92da098f0895a2889da190",
+    "robots.txt": "21fb70444be5737e6e64883c4a4e616abd0298de8b780ade1dba8615833e5678",
+    "da38b6fa8f2863175ff53724754e33b0.txt": "4fbc69a949438c9ecf9bc5eca5c7236641b68e25aceb38bec37f74cadc449885"
+  },
+  "revision": "64779f03c1b15973ada277e381e026430adcd4717db0fdbe8b56faee4ceb92fc"
+}
